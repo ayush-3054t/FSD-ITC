@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    background-color: lightblue;
+    border:1px solid red;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.child1{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    border: 1px dotted red;
+}
+.child2{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    border: 1px dotted red;
+}
+.child3{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border: 1px dotted red;
+}
+.child4{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    border: 1px dotted red;
+}
